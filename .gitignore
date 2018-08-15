@@ -1,3 +1,7 @@
+tp1/imágenes/
+tp2/som/
+tp2/hebb/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
